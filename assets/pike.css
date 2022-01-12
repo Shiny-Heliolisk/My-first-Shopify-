@@ -1,0 +1,36 @@
+#shopify-section-announcement-bar{
+    display: flex;
+}
+.announcement-bar{
+    width: 50%;
+    background-color: #222;
+}
+.announcement-bar:first-child>p{
+    text-align: left;
+}
+.announcement-bar:last-child>p{
+    text-align: right;
+}
+.announcement-bar>p{
+    color: #fff;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.rich-text__blocks{
+    text-align: left;
+}
+.slider>img{
+    width: 100%;
+    height: auto;
+}
+.slider{
+    text-align: center;
+}
+.slider ul li{
+    list-style: none;
+    margin: auto;
+    width: 360px;
+}
