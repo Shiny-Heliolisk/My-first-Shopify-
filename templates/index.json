@@ -65,10 +65,19 @@
             "pike_title": "Pike",
             "pike_content": "this is Pike"
           }
+        },
+        "4ec1c71f-e08b-4bdf-bc63-28a278111220": {
+          "type": "text",
+          "settings": {
+            "pike_image": "shopify:\/\/shop_images\/Image_4.png",
+            "pike_title": "Piken",
+            "pike_content": "This is Piken"
+          }
         }
       },
       "block_order": [
-        "bc696f7e-36b5-47c3-8f7f-b703d1cfdee8"
+        "bc696f7e-36b5-47c3-8f7f-b703d1cfdee8",
+        "4ec1c71f-e08b-4bdf-bc63-28a278111220"
       ],
       "settings": {
         "pike": "shopify:\/\/shop_images\/Blackground.png"
