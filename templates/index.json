@@ -73,11 +73,20 @@
             "pike_title": "Piken",
             "pike_content": "This is Piken"
           }
+        },
+        "118e0300-cdc2-4049-b609-766bf8c9bdcc": {
+          "type": "text",
+          "settings": {
+            "pike_image": "shopify:\/\/shop_images\/Image_3.png",
+            "pike_title": "Xpike",
+            "pike_content": "This is Xpike"
+          }
         }
       },
       "block_order": [
         "bc696f7e-36b5-47c3-8f7f-b703d1cfdee8",
-        "4ec1c71f-e08b-4bdf-bc63-28a278111220"
+        "4ec1c71f-e08b-4bdf-bc63-28a278111220",
+        "118e0300-cdc2-4049-b609-766bf8c9bdcc"
       ],
       "settings": {
         "pike": "shopify:\/\/shop_images\/Blackground.png"
